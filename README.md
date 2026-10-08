@@ -1,7 +1,7 @@
 # 💫 About Me:
 **Passionate Youngster who likes to learn new things**
 
-**Interested in WEB Development, AI/ML**
+**Focus: AI/ML, Web Dev**
 
 
 ## 🌐 Socials:
